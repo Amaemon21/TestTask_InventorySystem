@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ee729f819d618c44acb35c3857dadd6, type: 3}
+  m_Name: Item_Binoculars_Config
+  m_EditorClassIdentifier: 
+  <ItemId>k__BackingField: Item_Binoculars
+  <ItemRarity>k__BackingField: 3
+  <ItemType>k__BackingField: 4
+  <ItemName>k__BackingField: Binoculars
+  <ItemDescription>k__BackingField: Binoculars
+  <ItemIcon>k__BackingField: {fileID: 1652662755, guid: 3fd07672b1679ad45be43dfea50c6fe7, type: 3}
+  <Amount>k__BackingField: 1
+  <MaxCapacity>k__BackingField: 1
+  <ItemObject>k__BackingField: {fileID: 3438463809517713313, guid: 380287f53611768418d3bfb03a7d4648, type: 3}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ee729f819d618c44acb35c3857dadd6, type: 3}
+  m_Name: Item_Wirecutter_Config
+  m_EditorClassIdentifier: 
+  <ItemId>k__BackingField: Item_Wirecutter
+  <ItemRarity>k__BackingField: 3
+  <ItemType>k__BackingField: 3
+  <ItemName>k__BackingField: Wirecutter
+  <ItemDescription>k__BackingField: Wirecutter
+  <ItemIcon>k__BackingField: {fileID: -287084200, guid: 3fd07672b1679ad45be43dfea50c6fe7, type: 3}
+  <Amount>k__BackingField: 1
+  <MaxCapacity>k__BackingField: 1
+  <ItemObject>k__BackingField: {fileID: 2260207710246373166, guid: 275aef41d5e170d4087ed38eb25c7c0f, type: 3}
