@@ -25,6 +25,8 @@ Create a ScriptableObject of the required type.
 Add it to the ItemsDatabase.
 Done - the item will be available in the system.
 
-Item Config - ![alt text](image-1.png)
+Item Config - 
+![alt text](image-1.png)
 
-Item Database - ![alt text](image.png)
+Item Database - 
+![alt text](image.png)
