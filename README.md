@@ -26,4 +26,5 @@ Add it to the ItemsDatabase.
 Done - the item will be available in the system.
 
 Item Config - ![alt text](image-1.png)
+
 Item Database - ![alt text](image.png)
